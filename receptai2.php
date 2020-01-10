@@ -4,7 +4,7 @@
 <h2>Astrios krevetes grilyje</h2><br>
 <img src ="https://www.receptai.lt/uploads/modules/recipes/thumb380x250/10173.jpg" alt ="Astrios krevetes grilyje" width ="200" height = "170">
 <p><b>Paruosimo laikas:</b> apie 5min.<br>
-<b>Porciju skaicius:</b> 4</p><hr>
+<b>Porciju skaicius:</b> 4</p>
 
 <ol><b>Ingredientai:</b>
   <li><em><text style="color:red;">Krevetes</text></em>, 400 gramu</li>
@@ -18,4 +18,8 @@
   <li>Krevetes apiberti čili, apšlakstyti padažu.</li>
   <li>Kepti grilyje po 2 minutes iš kiekvienos pusės.</li>
   <li>Patiekti su žaliosios citrinos skiltele</li>
-</ul>
+</ul><hr><br>
+  
+<a href="receptai1.php">Grizti i praejusi recepta</a><br>
+<a href="receptai3.php">Sekantis receptas</a><br>
+<a href="index.php">Grizti i pradini puslapi</a>
