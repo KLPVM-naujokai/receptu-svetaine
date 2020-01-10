@@ -16,8 +16,8 @@
 </head>
 <body>
 
-<h2>Fixed/Sticky Footer Example</h2>
-<p>The footer is placed at the bottom of the page.</p>
+<h2>Receptai</h2>
+<p>.......</p>
 
 <div class="footer">
   <p>Footer</p>
