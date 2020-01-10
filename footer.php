@@ -1,4 +1,3 @@
-<?php
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,21 +7,17 @@
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: blue;
-   color: yellow;
-   text-align: left;
+   background-color: #003366;
+   color: white;
+   text-align: center;
 }
 </style>
 </head>
-<body>
 
-<h2>Receptai</h2>
-<p>.......</p>
 
 <div class="footer">
-  <p>Footer</p>
+  <p>Visos autoriu teises saugomos. Autoriai: KLPVM-naujokai</p>
 </div>
 
 </body>
 </html> 
-?>
