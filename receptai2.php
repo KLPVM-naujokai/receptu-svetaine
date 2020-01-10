@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <h2 id="pavad">Astrios krevetes grilyje</h2><br>
 <img id="img" src ="https://www.receptai.lt/uploads/modules/recipes/thumb380x250/10173.jpg" alt ="Astrios krevetes grilyje" width ="200" height = "170">
 
@@ -12,10 +9,10 @@
 
 <div class="grid-item" id="visiingr">
   <ol><b>Ingredientai:</b>
-  <li><em><text style="color:red;">Krevetes</text></em>, 400 gramu</li>
-  <li><em><text style="color:red;">Tabasko padazas</text></em>, 5 valgomieji saukstai</li>
-  <li><em><text style="color:red;">Aitrioji paprika</text></em>, 0.5 arbatinio saukstelio</li>
-  <li><em><text style="color:red;">Zalioji citrina</text></em>, 1 vienetas</li>
+  <li><em><text>Krevetes</text></em>, 400 gramu</li>
+  <li><em><text>Tabasko padazas</text></em>, 5 valgomieji saukstai</li>
+  <li><em><text>Aitrioji paprika</text></em>, 0.5 arbatinio saukstelio</li>
+  <li><em><text>Zalioji citrina</text></em>, 1 vienetas</li>
 </ol>
  </div>
 
