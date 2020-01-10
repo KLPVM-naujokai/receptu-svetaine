@@ -16,8 +16,6 @@
 
 
 <div class="footer">
-  <p>Visos autoriu teises saugomos. Autoriai: KLPVM-naujokai</p>
+  <p>2020. Visos autoriu teises saugomos. Autoriai: KLPVM-naujokai</p>
 </div>
-
-</body>
 </html> 
