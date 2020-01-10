@@ -4,7 +4,7 @@
 <h2>Kreveciu blyneliai</h2><br>
 <img src="https://www.receptai.lt/uploads/modules/recipes/thumb380x250/10229.jpg" alt ="Kreveciu blyneliai" width ="200", height ="150">
 <p><b>Paruosimo laikas:</b> apie 20min.<br>
-<b>Porciju skaicius:</b> 2</p><hr>
+<b>Porciju skaicius:</b> 2</p>
 
 <ol><b>Ingredientai:</b>
   <li><em><text style="color:red;">Krevetes</text></em>, 200 gramu</li>
@@ -19,7 +19,10 @@
   <li>Blynelius kepti aliejuje.</li>
   <li>Sudėti ant ranksluostinio popieriaus, kad nuvarvėtų riebalai.</li>
   <li>PaPatiekti su žalumynais ir citrina</li>
-</ul>
+</ul><hr><br>
+  
+<a href="receptai2.php">Sekantis receptas</a><br>
+<a href="index.php">Grizti i pradini puslapi</a>
 
 
 
