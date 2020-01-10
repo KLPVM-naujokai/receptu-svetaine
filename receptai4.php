@@ -19,7 +19,7 @@
   <li>Skanauti su klevų sirupu.</li>
 </ul><hr><br>
   
-<a href="receptai3.php">Grizti i praejusi recepta</a><br>
+<a href="receptai3.php">Ziureti praejusi recepta</a><br>
 <a href="index.php">Grizti i pradini puslapi</a>
 
 
