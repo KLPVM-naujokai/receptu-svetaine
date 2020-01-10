@@ -18,7 +18,7 @@
   <li>Kepti ant įkaitusių anglių, po 3 minutes kiekvieną pusę.</li>
 </ul><hr><br>
   
-<a href="receptai2.php">Grizti i praejusi recepta</a><br>
+<a href="receptai2.php">Ziureti praejusi recepta</a><br>
 <a href="receptai4.php">Sekantis receptas</a><br>
 <a href="index.php">Grizti i pradini puslapi</a>
 
