@@ -20,6 +20,6 @@
   <li>Patiekti su žaliosios citrinos skiltele</li>
 </ul><hr><br>
   
-<a href="receptai1.php">Grizti i praejusi recepta</a><br>
+<a href="receptai1.php">Ziureti praejusi recepta</a><br>
 <a href="receptai3.php">Sekantis receptas</a><br>
 <a href="index.php">Grizti i pradini puslapi</a>
